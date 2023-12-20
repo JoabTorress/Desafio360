@@ -1,0 +1,15 @@
+C:\Users\Joab\Downloads\Ti360\bin\Debug\net5.0\Ti360.exe
+C:\Users\Joab\Downloads\Ti360\bin\Debug\net5.0\Ti360.deps.json
+C:\Users\Joab\Downloads\Ti360\bin\Debug\net5.0\Ti360.runtimeconfig.json
+C:\Users\Joab\Downloads\Ti360\bin\Debug\net5.0\Ti360.runtimeconfig.dev.json
+C:\Users\Joab\Downloads\Ti360\bin\Debug\net5.0\Ti360.dll
+C:\Users\Joab\Downloads\Ti360\bin\Debug\net5.0\Ti360.pdb
+C:\Users\Joab\Downloads\Ti360\obj\Debug\net5.0\Ti360.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joab\Downloads\Ti360\obj\Debug\net5.0\Ti360.AssemblyInfoInputs.cache
+C:\Users\Joab\Downloads\Ti360\obj\Debug\net5.0\Ti360.AssemblyInfo.cs
+C:\Users\Joab\Downloads\Ti360\obj\Debug\net5.0\Ti360.csproj.CoreCompileInputs.cache
+C:\Users\Joab\Downloads\Ti360\obj\Debug\net5.0\Ti360.dll
+C:\Users\Joab\Downloads\Ti360\obj\Debug\net5.0\refint\Ti360.dll
+C:\Users\Joab\Downloads\Ti360\obj\Debug\net5.0\Ti360.pdb
+C:\Users\Joab\Downloads\Ti360\obj\Debug\net5.0\Ti360.genruntimeconfig.cache
+C:\Users\Joab\Downloads\Ti360\obj\Debug\net5.0\ref\Ti360.dll
